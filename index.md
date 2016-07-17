@@ -36,9 +36,9 @@ und ihr könnt die Informationen nutzen um euren Alltag etwas nachhaltiger zu ma
 
 
 
-Index
+Recherchen
 
 - [Nachhaltiger Fisch](/fish/fishblog.html)
-- [Nachhaltige Kleidung] (/clothes/clothes.html)
 
+<!-- [Nachhaltige Kleidung](/clothes/clothes.html) -->
 
