@@ -1,4 +1,4 @@
 ---
-foo: true
+layout: default
 ---
 hello world
