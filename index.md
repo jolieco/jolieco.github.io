@@ -1,1 +1,4 @@
+---
+foo: true
+---
 hello world
