@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### *Dounias Frage: ich möchte Kleidung shoppen, aber habe von problematischen Arbeitsbedingungen in der Textilindustrie gehört. Gibt es einen Weg, wie ich Kleidung für mich und meine Familie einkaufen kann, ohne dass Menschen für meine neue Hose leiden mussten?*
+### *Dounias Frage: ich brauche eine neue Hose, habe aber von problematischen Arbeitsbedingungen in der Textilindustrie gehört. Gibt es einen Weg, wie ich Kleidung einkaufen kann, ohne dass Menschen dafür leiden mussten?*
 
 ***
 
@@ -14,7 +14,7 @@ Die auf den Feldern eingesetzten Chemikalien beeinträchtigen ihre Gesundheit (h
 Dann besteht für die Bauern ein akutes Armutsrisiko, denn oft besteht für sie keine Alternative zum Anbau von Baumwolle. 
 Die Ausgaben für den Chemikalieneinkauf übersteigen langfristig häufig das Einkommen der Bauern, das sie mit dem Verkauf der Baumwolle erzielen -  viele der Kleinbauern verschulden sich (Schaus 2013; Koß 2014).
 
->Auch die konventionelle Verarbeitung der Textilien beschehrt dem grünen Gewissen einiges Kopfzerbrechen - sie benötigt erneut einen erheblichen Einsatz von Chemikalien.
+>Auch die konventionelle Verarbeitung der Textilien beschehrt dem grünen Gewissen einiges Kopfzerbrechen, da hier erneut einen große Mengen von Chemikalien eingesetzt werden.
 Um Kleidung zu färben, leichter zu bügeln, knitterfrei, weich, wind- und wasserdicht zu machen, verbraucht die Textilindustrie jährlich etwa 250.000 Tonnen Farbstoffe und 4 Millionen Tonnen Textilhilfsmittel, Laugen und Salze. 
 Da die Umweltauflagen in Deutschland sehr anspruchsvoll sind, hat sich die Industrie zum größten Teil in Länder mit weniger strengen Umwelt- und Gesundheitsschutzgesetzen verlagert.
 Wenn die Kleidung gefärbt, gebleicht, gewaschen und bedruckt wird, werden giftige Schwermetalle und große Mengen gesundheitsschädigender Chemikalien eingesetzt. 
@@ -51,7 +51,7 @@ Beispielsweise sticht Greenpeace mit ihrer „Detox-Kampagne“ heraus und die K
 >Die Greenpeace-„Detox my Fashion“-Kampagne versucht große Modemarken zu einem Umdenken bei der Verwendung schädlicher Chemikalien zu bringen – bis zum Jahr 2020 sollen sie ihre Modeproduktion „entgiftet“ haben. 
 Durch die Kampagne haben sich seit dem Start im Jahr 2011 76 internationale Modemarken, Händler und Lieferanten zur Entgiftung ihrer Herstellungsprozesse verpflichtet. 
 Nun hat Greenpeace ein Zwischenfazit gezogen: die Konzerne Inditex (dazu gehört z.B. Zara), Benetton und H&M gehören zur „Avantgarde“ – sie sind den anderen Kampagnen-Teilnehmern voraus und können konkrete Vorhaben und praktische Umsetzung bei der Verbannung schädlicher Chemikalien vorweisen. 
-Die Unternehmen C&A, G-Star, Mango, Adidas, Burberry, Levis, Primark, Puma und andere (die komplette Liste könnt ihr auf http://www.detoxcatwalk.de/ einsehen) machen Fortschritte, müssen aber ihre Vorhaben schneller umsetzen, um bis zum Jahr 2020 eine „saubere“ Produktion zu erreichen. 
+Die Unternehmen C&A, G-Star, Mango, Adidas, Burberry, Levis, Primark, Puma und andere (die komplette Liste könnt ihr auf <a href="http://www.detoxcatwalk.de/" > hier </a einsehen) machen Fortschritte, müssen aber ihre Vorhaben schneller umsetzen, um bis zum Jahr 2020 eine „saubere“ Produktion zu erreichen. 
 Folgende Unternehme haben die Greenpeace-Detox-Verpflichtung unterschrieben, zeigen jedoch keine Fortschritte bei der Entgiftung: Esprit, Limited Brands, Li-Ning und Nike. 
 Und viele weitere Modemarken haben bisher gar keine Pläne auf schädliche Chemikalien  in ihrer Produktionskette zu verzichten: Armani, Bestseller, Diesel, D&G, GAP, Hermes, LVMH Group/Christian Dior Couture, Metersbonwe, PVH, VAnci, Versace (http://www.detoxcatwalk.de/ 2016).
 
@@ -71,7 +71,7 @@ Der Rest (z.B. Hugo Boss, Aldi, Levi Strauss, Pimkie, S. Oliver, Mango, Orsay, L
 >Nachhaltige Kleidung (auch Grüne Mode, Öko-Mode oder Slow Fashion) bezeichnet meist gesundheitlich unbedenkliche Textilien, die unter ökologischen und menschenwürdigen Bedingungen hergestellt wurden. 
 Dabei gibt es verschiedene Abstufungen, die nicht immer klar definiert sind. 
 Eco-fashion ist beispielsweise Kleidung, die möglichst aus biologisch abbaubaren oder recycelten Materialien (z.B. Bio-Baumwolle und Maisfasern) besteht und bei deren Herstellungsprozess Umwelteinflüsse reduziert werden sollen, indem zum Beispiel naturbelassene Farbstoffe genutzt werden. 
-Eco-fashion soll so designet und hergestellt werden, dass die Vorteile für Mensch und Gesellschaft maximiert und die schädlichen Umwelteinflüsse minimiert werden (CHAN & WONG 2012). 
+Eco-fashion soll so designet und hergestellt werden, dass die Vorteile für Mensch und Gesellschaft maximiert und die schädlichen Umwelteinflüsse minimiert werden (Chan & Wong 2012). 
 Generell kostet nachhaltige Mode mehr als konventionelle Kleidung. 
 Die Idee ist, weniger und hochwertigere Produkte zu kaufen, die durch den höheren Preis die Qualität der Materialien und faire Arbeitsbedingungen widerspiegelt. 
 In der nachhaltigen Modeindustrie kaufen die Konsumenten seltener und teurer ein, doch die Produkte sind besser verarbeitet und halten länger. 
@@ -79,7 +79,7 @@ Dadurch wird auch der Ressourcenverbrauch (Wasser, Energie, Chemikalien, usw.) v
 
 >Nachhaltigkeit in der Bekleidungsindustrie können Kundinnen und Kunden vor allem an Siegeln erkennen. 
 Mittlerweile gibt es eine Vielzahl unterschiedlicher Standards, was vor allem verwirrend ist. 
-Die großen Ketten wie H&M und C&A verkaufen auch nachhaltige Kleidung unter eigenen Nachhaltigkeitssiegeln (H&Ms Organic Cotton und bei C&A BioCotton), wobei laut utopia.de die Nachhaltigkeitsansprüche nicht so hoch sind, wie bei markenexternen Siegeln. 
+Die großen Ketten wie H&M und C&A verkaufen auch nachhaltige Kleidung unter eigenen Nachhaltigkeitssiegeln (H&Ms Organic Cotton und bei C&A BioCotton), wobei laut dem Nachhaltigkeitsportal utopia.de die Nachhaltigkeitsansprüche nicht so hoch sind, wie bei markenexternen Siegeln. 
 Dies ist vielleicht besser als Nachhaltigkeitsaspekte wie Pestizideinsatz, Ressourcenverbrauch und Arbeitsbedingungen überhaupt nicht zu berücksichtigen.
 Falls die Verbraucher aber ein sehr ausgeprägtes Nachhaltigkeitsbewusstsein haben (und über die nötige Kaufkraft verfügen), können sie gezielt Kleidung mit folgenden Labels shoppen:
 
