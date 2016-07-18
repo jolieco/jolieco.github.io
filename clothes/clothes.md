@@ -2,8 +2,7 @@
 layout: default
 ---
 
-### *Dounias Frage: ich möchte Kleidung shoppen, aber habe von problematischen Arbeitsbedingungen in der Textilindustrie gehört. 
-Gibt es einen Weg, wie ich Kleidung für mich und meine Familie einkaufen kann, ohne dass Menschen für meine neue Hose leiden mussten?*
+### *Dounias Frage: ich möchte Kleidung shoppen, aber habe von problematischen Arbeitsbedingungen in der Textilindustrie gehört. Gibt es einen Weg, wie ich Kleidung für mich und meine Familie einkaufen kann, ohne dass Menschen für meine neue Hose leiden mussten?*
 
 ***
 
