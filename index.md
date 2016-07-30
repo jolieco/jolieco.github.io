@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-***
+
 
 
 
 
 
 In diesem Blog geht es um eure Fragen rund um alles was mit Nachhaltigkeit zu tun hat: 
-wie kann ich neue Klamotten kaufen, ohne das ich durch meinen Konsum Andere ausbeute?
+wie kann ich neue Klamotten kaufen, ohne das ich durch meinen Konsum Ausbeutung und Umweltverschmutzung unterstütze?
 Was bringt die Mülltrennung?
 Welchen Fisch kann ich  mit einem "grünen Gewissen" essen?
 Welchen Ökosiegeln im Supermarkt kann ich vertrauen?
