@@ -27,13 +27,7 @@
 				margin-bottom: 20px;
 				
 			}
-			
-			div.header {
-				margin: 100px;
-				margin-left: 200px;
-				
-				
-			}
+		
 			
 			div.content {
 				font-size: 13px;
@@ -67,19 +61,47 @@
 				
 			}
 			
-			body {
-			font-family: Georgia, serif;
-		}
-				
+			body, html {
+			  font-family: Georgia, serif;
+			  margin: 0;
+			  padding: 0;
+			}
+			
+			div.header {
+				background-image: url(/images/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 140px;
+    margin: 0;
+    /* padding: 20px; */
+    /* padding-top: 134px; */
+    background-position-y: -133px;
+    /* padding-bottom: 5px; */
+    overflow: hidden;
+			}
+
+			div.header h1 {
+				margin-top: 100px;
+				}
+			
+			div.header h1, 
+			div.header h1 a, 
+			div.header h2,
+			div.header h2 a{
+			   color: white;
+			   text-decoration: none;
+			}
+		
+			
 			
 			
 		</style>
 	</head>	
 	<body>		
 		<div class="header" >
-		  <h3>
+		  <h1>
 			<a href="/" > JoLies Blog </a>  
-		  </h3>	
+		  </h1>	
 		</div>
 		<div class="content">
 			{{content}}
