@@ -110,7 +110,7 @@ Zum Chemikalieneinsatz während der Produktion liefert es keine Auskunft.
 Fairtrade gibt während des Baumwollanbaus eine Mindestpreisgarantie, beachtet die ILO-Kernarbeitsnormen und die Fair Trade Standards, vergibt Sozialprämien für Gemeinschaftsprojekte und schult und berät vor Ort.
 In den restlichen Produktionsschritten werden die ILO-Kernarbeitsnormen beachtet (GiZ 2014; Koß 2014).
 
-> <img src="/clothes/images/cottonafrica.png" alt="sustainable clothes"
+<img src="/clothes/images/cottonafrica.png" alt="sustainable clothes"
 style="width:85px;height:110px;"
 class="floating">__Cotton made in Africa__: das Ziel des Siegels ist die Verbesserung der Lebensbedingungen und der Gesundheit afrikanischer Baumwollbauern. 
 Dazu wird der Pestizideinsatz verringert und während des Anbaus vor allem Regenwasser und kein genmanipuliertes Saatgut genutzt. 
@@ -119,7 +119,7 @@ Bio-Baumwolle ist keine Bedingung.
 Das Siegel schließt beim Baumwoll-Anbau Sklaverei und Kinderarbeit aus, nimmt die Baumwolle zu Weltmarktpreisen ab, schult die Kleinbauern und initiiert Sozialprojekte. 
 Das Siegel macht keine Angaben zur Chemikaliennutzung in der Kleidungsproduktion und im Endprodukt (GiZ 2014; Koß 2014).
 
-> <img src="/clothes/images/bluesign.png" alt="sustainable clothes"
+<img src="/clothes/images/bluesign.png" alt="sustainable clothes"
 style="width:85px;height:95px;"
 class="floating">__Bluesign__: der Standard soll Prozesse in der Textilherstellung optimieren.
 Das bedeutet, dass das Siegel einen besonderen Fokus auf Produktions- und Arbeitsabläufe in der Textilveredlung legt und dadurch vor allem die Endverbraucher schützen will. 
@@ -127,7 +127,7 @@ Die Rohfaserproduktion wird nicht beachtet, dafür sollen Fasern, Chemikalien, H
 Arbeitsbedingungen sollen vor allem sicher sein, doch Fairness und soziale Standards (z.B. Mindestlohn und angemessene Arbeitszeiten für die Näher) werden nicht angesprochen. 
 Greenpeace lobt Bluesign für die umfangreiche und detaillierte Chemikalienregelung, hält das Siegel dennoch für verbesserungswürdig und Ökotest beschreibt es als „kein Garant für absolut schadstofffreie Endprodukte“ (Ökotest 2010; GiZ 2014; Greenpeace 2014; Bluesign 2016). 
 
-> <img src="/clothes/images/textilesvertrauen.png" alt="sustainable clothes"
+<img src="/clothes/images/textilesvertrauen.png" alt="sustainable clothes"
 style="width:160px;height:100px;"
 class="floating"> __Textiles Vertrauen – Öko-Tex Standard 100__: ähnlich wie das Bluesign-Siegel soll der Öko-Tex Standard 100 vor allem den Endverbraucher schützen, indem er sich ausschließlich auf Produkteigenschaften fokussiert. 
 Der Standard bezieht sich auf Schadstoff-Rückstände. 
@@ -137,18 +137,18 @@ Der __Öko-Text Standard 100 Plus__ dagegen berücksichtigt neben Schadstoff-Rü
 
 ### Fazit
 
->Kleidung mit den oben genannten Siegeln erfüllt __unterschiedlich starke Nachhaltigkeitsansprüche__ und kann insbesondere für einkommensstärkere Konsumenten sinnvoll sein, da nachhaltige Klamotten meist teurer sind als herkömmliche. 
+Kleidung mit den oben genannten Siegeln erfüllt __unterschiedlich starke Nachhaltigkeitsansprüche__ und kann insbesondere für einkommensstärkere Konsumenten sinnvoll sein, da nachhaltige Klamotten meist teurer sind als herkömmliche. 
 Textilien die mit markeneigenen Siegeln (z.B. H&M und C&A) gekennzeichnet sind, eignen sich als Kompromiss. 
 Ebenso wie der Einkauf auf dem __Flohmarkt__ oder in __Second-Hand-Läden__: gebrauchter Kleidung eine zweite Chance zu geben, gilt auch als nachhaltig.
 Zwar hat diese Strategie keinen Einfluss auf die problematischen Arbeitsbedingungen in der Industrie, doch zumindest lässt sich der Ressourcenverbrauch reduzieren. 
 Second-Hand-Kleidung ist ökologisch nachhaltig, da die Textilien nicht neu produziert werden müssen und Wasser, Chemikalien und Energie zur Herstellung eines neuen Kleidungsstückes gespart werden können (Koß 2014). 
 
->Konsumverhalten kann einen __Einfluss__ auf die Herstellungsbedingungen haben.
+Konsumverhalten kann einen __Einfluss__ auf die Herstellungsbedingungen haben.
 Erst recht, falls auch der Dialog zwischen Konsumenten und Herstellern (oder Marken) gesucht wird. 
 Viele Marken schätzen ökologische Produktionsweisen als __wenig relevant__ bei der Kaufentscheidung der Konsumenten ein, weshalb Nachhaltigkeit in der konventionellen Textilindustrie bisher __nicht priorisiert__ wird. 
 Dies verdeutlicht folgendes Ergebnis einer Studie, die auch Großeinkäufer (wie H&M und Zara) zu ihrer Gestaltung des Warensortiments befragt hat:
 
->>*"So gelten im konventionellen Bereich ökologische Anforderungen als weniger bedeutsam: 
+>*"So gelten im konventionellen Bereich ökologische Anforderungen als weniger bedeutsam: 
 Gerade aus Sicht der einflussreichen Akteure aus dem Einkauf spielt Ökologie „am Ende keine starke Rolle“ (Einkauf, konventionell). 
 Ihre Einschätzung begründen sie mit der anhaltend geringen Nachfrage der Konsument(inn)en nach ökologisch verbesserter Bekleidung: „Vom __Verbraucher__ wird das (die Berücksichtigung ökologischer Anforderungen, die Verfasserinnen) noch nicht so __honoriert__ oder __gefordert__“ (Einkauf, konventionell). 
 Im Vergleich zu Preis, Qualität, modischer Aktualität und Marke beurteilen konventionelle Einkäufer(innen) ökologische Aspekte danach als __wenig kaufrelevant__. 
@@ -158,11 +158,11 @@ Sie gehen außerdem nur von einer geringen Zahlungsbereitschaft für einen ökol
 
 ***
 
-### Quellen
 
 Bluesign Webpage: http://www.bluesign.com/de/#.V3-vWtKLTDc
 
-Chan, T. & C. W. Y. Wong (2012): The consumption side of sustainable fashion supply chain. Understanding fashion consumer eco-fashion consumption decision. In: Journal of Fashion Marketing and Management: An International Journal, Vol. 16, Heft 2, S. 193 – 215 . Online Ressource. Abrufbar unter: https://www.researchgate.net/profile/Christina_Wong8/publication/241723684_The_consumption_side_of_sustainable_fashion_supply_chain/links/5476f1160cf2778985b096a8.pdf (letzter Abruf: 15. Juni 2016). 
+Chan, T. & C. W. Y. Wong (2012): The consumption side of sustainable fashion supply chain. Understanding fashion consumer eco-fashion consumption decision. In: Journal of Fashion Marketing and Management: An International Journal, Vol. 16, Heft 2, S. 193 – 215 . Online Ressource. 
+Abrufbar unter: https://www.researchgate.net/profile/Christina_Wong8/publication/241723684_The_consumption_side_of_sustainable_fashion_supply_chain/links/5476f1160cf2778985b096a8.pdf (letzter Abruf: 15. Juni 2016). 
 
 Clean Clothes Campaign (2014): Firmen-Check. Zahlen die internationalen Modemarken den Menschen, die ihre Kleider herstellen, Löhne zum Leben? Online Ressource.  Abrufbar unter: http://www.cleanclothes.at/media/common/uploads/download/firmen-check/TailoredWages_DE_final_140609.pdf (letzter Abruf: 10. Juli 2016).
 
