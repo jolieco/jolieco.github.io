@@ -108,20 +108,20 @@ Das Aldi-Biosiegel für Aquakultur-Lachs erfüllt keine Nachhaltigkeitsansprüch
 
 ***
 
-Bush, S. R. et al (2013): Certify Sustainable Aquaculture? In: Science Magazine. H. 341. S. 1067 – 1068. Online Ressource. Abrufbar unter: http://americastilapiaalliance.org/wp-content/uploads/2013/12/bushcertifyaquaculture.pdf (letzter Abruf: 20. Dezember 2015). 
+Bush, S. R. et al (2013): <a href="http://americastilapiaalliance.org/wp-content/uploads/2013/12/bushcertifyaquaculture.pdf" > Certify Sustainable Aquaculture?</a> In: Science Magazine. H. 341. S. 1067 – 1068. Online Ressource (letzter Abruf: 20. Dezember 2015). 
 
-Ehrich, S. & T. Neudecker (1996): Bestimmung der Begriffe Gesamtfang, Fang, Beifang und Rückwürfe. In: Informationen für die Fischwirtschaft aus der Fischereiforschung. H. 43. S. 3 – 6. Online Ressource. Abrufbar unter: http://aquaticcommons.org/3831/1/Infn_43_1_S_3-6.PDF (letzter Abruf: 20. Juni 2016).
+Ehrich, S. & T. Neudecker (1996): <a href="http://aquaticcommons.org/3831/1/Infn_43_1_S_3-6.PDF"> Bestimmung der Begriffe Gesamtfang, Fang, Beifang und Rückwürfe.<a/> In: Informationen für die Fischwirtschaft aus der Fischereiforschung. H. 43. S. 3 – 6. Online Ressource (letzter Abruf: 20. Juni 2016).
 
-FAO (Hrsg.) (2014): The State of World Fisheries and Aquaculture. Opportunities and challenges. Online Ressource. Abrufbar unter: http://www.fao.org/3/a-i3720e.pdf (letzter Abruf: 20. Dezember 2015). 
+FAO (Hrsg.) (2014): <a href="http://www.fao.org/3/a-i3720e.pdf"> The State of World Fisheries and Aquaculture. Opportunities and challenges.<a/> Online Ressource (letzter Abruf: 20. Dezember 2015). 
 
-Fisch-Portal des Thünen Instituts für Ostseefischerei: http://fischbestaende.portal-fischerei.de/   Online Ressource. Letzter Abruf: 21. Dezember 2015.
+<a href="http://fischbestaende.portal-fischerei.de/"> Fisch-Portal des Thünen Instituts für Ostseefischerei <a/>   Online Ressource. Letzter Abruf: 21. Dezember 2015.
 
-Fisch-Informationszentrum e.V. & Thünen-Institut für Ostseefischerei (ohne Jahr): Fisch & Co. Nachhaltiger Fischeinkauf – aber wie? Eine Einführung in Fischbestände online.  Online Ressource. Abrufbar unter: http://fischbestaende.portal-fischerei.de/fileadmin/SITE_MASTER/content/pdf/NachhaltigerFischeinkaufAberWie_k.pdf (letzter Abruf: 21. Dezember 2015). 
+Fisch-Informationszentrum e.V. & Thünen-Institut für Ostseefischerei (ohne Jahr): [Fisch & Co. Nachhaltiger Fischeinkauf – aber wie? Eine Einführung in Fischbestände online.](http://fischbestaende.portal-fischerei.de/fileadmin/SITE_MASTER/content/pdf/NachhaltigerFischeinkaufAberWie_k.pdf)  Online Ressource (letzter Abruf: 21. Dezember 2015). 
 
-Martinez-Porchas, M. & L. R. Martinez-Cordova (2011): World Aquaculture: Environmental Impacts and Troubleshooting Alternatives. In: The Scientific World Journal 2012. S.  1 – 9. Online Ressource. Abrufbar unter: http://www.hindawi.com/journals/tswj/2012/389623/ (letzter Abruf: 20. Dezember 2015). 
+Martinez-Porchas, M. & L. R. Martinez-Cordova (2011): <a href="http://www.hindawi.com/journals/tswj/2012/389623/"> World Aquaculture: Environmental Impacts and Troubleshooting Alternatives. <a/> In: The Scientific World Journal 2012. S.  1 – 9. Online Ressource (letzter Abruf: 20. Dezember 2015). 
 
-Münkner, W. (2001): Über Fischereiressourcen und ihre Nutzung. In: Informationen für die Fischwirtschaft aus der Fischereiforschung. H. 48. S. 29 – 33. Online Ressource. Abrufbar unter: http://aquaticcommons.org/3181/1/01-1_Seite029-033_bf.pdf (letzter Abruf: 21. Juni 2016).
+Münkner, W. (2001): [Über Fischereiressourcen und ihre Nutzung](http://aquaticcommons.org/3181/1/01-1_Seite029-033_bf.pdf). In: Informationen für die Fischwirtschaft aus der Fischereiforschung. H. 48. S. 29 – 33. Online Ressource (letzter Abruf: 21. Juni 2016).
 
-Utopia: das Portal für Nachhaltigkeit: https://news.utopia.de/ratgeber/bio-lachs-aldi-billig/ 
+Utopia - das Portal für Nachhaltigkeit: [Lachs bei Aldi: Kann billig noch bio sein?](https://news.utopia.de/ratgeber/bio-lachs-aldi-billig/) Online Ressource (letzter Abruf: 29. Juli 2016). 
 
 

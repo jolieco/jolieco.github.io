@@ -166,28 +166,27 @@ Sie gehen außerdem nur von einer geringen Zahlungsbereitschaft für einen ökol
 ***
 
 
-Bluesign Webpage: http://www.bluesign.com/de/#.V3-vWtKLTDc
+[Bluesign Webpage](http://www.bluesign.com/de/#.V3-vWtKLTDc) Online Ressource (letzter Abruf: 29. Juli 2016).
 
-Chan, T. & C. W. Y. Wong (2012): The consumption side of sustainable fashion supply chain. Understanding fashion consumer eco-fashion consumption decision. In: Journal of Fashion Marketing and Management: An International Journal, Vol. 16, Heft 2, S. 193 – 215 . Online Ressource. 
-Abrufbar unter: https://www.researchgate.net/profile/Christina_Wong8/publication/241723684_The_consumption_side_of_sustainable_fashion_supply_chain/links/5476f1160cf2778985b096a8.pdf (letzter Abruf: 15. Juni 2016). 
+Chan, T. & C. W. Y. Wong (2012): [The consumption side of sustainable fashion supply chain. Understanding fashion consumer eco-fashion consumption decision.](https://www.researchgate.net/profile/Christina_Wong8/publication/241723684_The_consumption_side_of_sustainable_fashion_supply_chain/links/5476f1160cf2778985b096a8.pdf) In: Journal of Fashion Marketing and Management: An International Journal, Vol. 16, Heft 2, S. 193 – 215 . Online Ressource (letzter Abruf: 15. Juni 2016). 
 
-Clean Clothes Campaign (2014): Firmen-Check. Zahlen die internationalen Modemarken den Menschen, die ihre Kleider herstellen, Löhne zum Leben? Online Ressource.  Abrufbar unter: http://www.cleanclothes.at/media/common/uploads/download/firmen-check/TailoredWages_DE_final_140609.pdf (letzter Abruf: 10. Juli 2016).
+Clean Clothes Campaign (2014): [Firmen-Check. Zahlen die internationalen Modemarken den Menschen, die ihre Kleider herstellen, Löhne zum Leben?](http://www.cleanclothes.at/media/common/uploads/download/firmen-check/TailoredWages_DE_final_140609.pdf) Online Ressource (letzter Abruf: 10. Juli 2016).
 
-Clean Clothes Kampagne Österreich (ohne Datum): Label Check – Gütesiegel im Vergleich. Online Ressource.  Abrufbar unter: http://www.cleanclothes.at/media/common/uploads/download/cck-label-check/CCK-LabelCheck_screen.pdf (letzter Abruf: 10. Juli 2016). 
+Clean Clothes Kampagne Österreich (ohne Datum): [Label Check – Gütesiegel im Vergleich.](http://www.cleanclothes.at/media/common/uploads/download/cck-label-check/CCK-LabelCheck_screen.pdf) Online Ressource (letzter Abruf: 10. Juli 2016). 
 
-Gesellschaft für international Zusammenarbeit (GiZ) (Hrsg.) (2014): Nachhaltig nach Strich und Faden. Gütesiegel helfen Konsumenten bei der Kaufentscheidung. In: Nah dran, Vol. 01, S. 12 – 15. Online Ressource.  Abrufbar unter: https://www.giz.de/de/downloads/giz2014-de-nahdran-1-14-nachhaltiger-konsum.pdf (letzter Abruf: 18. Juli 2016).
+Gesellschaft für international Zusammenarbeit (GiZ) (Hrsg.) (2014): [Nachhaltig nach Strich und Faden. Gütesiegel helfen Konsumenten bei der Kaufentscheidung.](https://www.giz.de/de/downloads/giz2014-de-nahdran-1-14-nachhaltiger-konsum.pdf) In: Nah dran, Vol. 01, S. 12 – 15. Online Ressource (letzter Abruf: 18. Juli 2016).
 
-Greenpeace Detox Catwalk (2016): Wer ist auf dem Weg zu giftfreier Mode? http://www.detoxcatwalk.de/
+Greenpeace Detox Catwalk (2016): [Wer ist auf dem Weg zu giftfreier Mode?](http://www.detoxcatwalk.de/) Online Ressource (letzter Abruf: 29. Juli 2016).
 
-Greenpeace (2014³): Textil-Label unter der Detox-Lupe. Einkaufsratgeber für giftfreie Kleidung. Online Ressource.  Abrufbar unter: http://www.greenpeace.org/austria/Global/austria/dokumente/ratgeber/konsum_textil_label_2014.pdf (letzter Abruf: 6. Juli 2016). 
+Greenpeace (2014³): [Textil-Label unter der Detox-Lupe. Einkaufsratgeber für giftfreie Kleidung.](http://www.greenpeace.org/austria/Global/austria/dokumente/ratgeber/konsum_textil_label_2014.pdf) Online Ressource (letzter Abruf: 6. Juli 2016). 
 
-Koß, J.-S. (2014): Die Problematik der konventionellen Bekleidungsindustrie: Der Einfluss des Bewusstseins auf das Konsumverhalten in Bezug auf nachhaltige Mode. Abschlussarbeit zur Erlangung des akademischen Grades Master of Science. Ernst-Moritz-Arndt Universität Greifswald, Institut für Geographie und Geologie. Online Ressource.  Abrufbar unter: http://www.mnf.uni-greifswald.de/fileadmin/Geowissenschaften/geographie/angew_geo/Diplomarbeiten/MSc.Arbeit_-_JohannaKoss.pdf (letzter Abruf: 10. Juli 2016). 
+Koß, J.-S. (2014): [Die Problematik der konventionellen Bekleidungsindustrie: Der Einfluss des Bewusstseins auf das Konsumverhalten in Bezug auf nachhaltige Mode.](http://www.mnf.uni-greifswald.de/fileadmin/Geowissenschaften/geographie/angew_geo/Diplomarbeiten/MSc.Arbeit_-_JohannaKoss.pdf) Abschlussarbeit zur Erlangung des akademischen Grades Master of Science. Ernst-Moritz-Arndt Universität Greifswald, Institut für Geographie und Geologie. Online Ressource (letzter Abruf: 10. Juli 2016). 
 
-Locke, R & M. Romis (2007): Improving Work Conditions in a Global Supply Chain. In: MIT Sloan Management Review, Vol. 48, Heft 2, S. 54 – 62.  Online Ressource.  Abrufbar unter: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.575.2938&rep=rep1&type=pdf (letzter Abruf: 6. Juli 2016). 
+Locke, R & M. Romis (2007): [Improving Work Conditions in a Global Supply Chain](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.575.2938&rep=rep1&type=pdf). In: MIT Sloan Management Review, Vol. 48, Heft 2, S. 54 – 62.  Online Ressource (letzter Abruf: 6. Juli 2016). 
 
-Ökotest (2010): Label Bluesign Standard – was steckt dahinter? http://www.oekotest.de/cgi/index.cgi?artnr=10817&gartnr=90&bernr=10
+Ökotest (2010): [Label Bluesign Standard – was steckt dahinter?](http://www.oekotest.de/cgi/index.cgi?artnr=10817&gartnr=90&bernr=10) Online Ressource (letzter Abruf: 29. Juli 2016).
 
-Weller, I. & L. Stöwer (2014): Mode und Ökologie: Schnittmuster mit Webfehlern. In: GAIA, Vol. 23, Heft 4, S. 327 – 334. Online Ressource. Abrufbar unter: http://dx.doi.org/10.14512/gaia.23.4.8 (letzter Abruf: 18. Juli 2016). 
+Weller, I. & L. Stöwer (2014): [Mode und Ökologie: Schnittmuster mit Webfehlern.](http://dx.doi.org/10.14512/gaia.23.4.8) In: GAIA, Vol. 23, Heft 4, S. 327 – 334. Online Ressource (letzter Abruf: 18. Juli 2016). 
 
-Young, M. (2004): Responsibility and Global Labor Justice. In: The Journal of Political Philosophy, Vol. 12, Heft 4, S. 365 – 388. Online Ressource.  Abrufbar unter: http://web.mit.edu/sgrp/2007/no1/YoungRGLJ.pdf (letzter Abruf: 6. Juli 2016). 
+Young, M. (2004): [Responsibility and Global Labor Justice.](http://web.mit.edu/sgrp/2007/no1/YoungRGLJ.pdf) In: The Journal of Political Philosophy, Vol. 12, Heft 4, S. 365 – 388. Online Ressource (letzter Abruf: 6. Juli 2016). 
 
